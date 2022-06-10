@@ -15,8 +15,17 @@ cd C:\folder_name
 cd/folder_name
 ```
 
-## Листинг директории
+## Удалить файл
+### Windows
+```sh
+del имя_файла
+```
+### Linux/MacOs
+```sh
+rm имя_файла
+```
 
+## Листинг директории
 ### Windows
 ```sh
 dir
