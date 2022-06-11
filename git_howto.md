@@ -14,3 +14,8 @@ C:\Users\maksi\Desktop\Lessen_1>git init
 ```sh
 C:\Users\maksi\Desktop\Lessen_1>git status
 ```
+## Добавление файла или файлов к следующему коммиту
+Для добавления файла к следующему коммиту используем команду **git add** + "имя_файла.расширение":
+```sh
+C:\Users\maksi\Desktop\Lessen_1>git add git_howto.md
+```
