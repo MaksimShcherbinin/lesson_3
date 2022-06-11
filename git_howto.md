@@ -24,3 +24,11 @@ C:\Users\maksi\Desktop\Lessen_1>git add git_howto.md
 ```sh
 C:\Users\maksi\Desktop\Lessen_1>git commit -m "Addet git commit command"
 ```
+## Вывод на экран истории всех коммитов с их хеш-кодами
+Используем комманду **git log**:
+```sh
+C:\Users\maksi\Desktop\Lessen_1>git log
+```
+На экране отобразятся все созданные до текущего коммиты вместе с последним. Например, текущий коммит имеет хэш-код *dedd7b5de...* и находится в ветке **master**:
+![](git_log.jpg)
+Для выхода из списка коммитов нажимаем клавишу **q**
