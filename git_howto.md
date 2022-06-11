@@ -9,3 +9,8 @@ C:\Users\maksi\Desktop\Lessen_1>
 ```sh
 C:\Users\maksi\Desktop\Lessen_1>git init
 ``` 
+## Текущее состояние git
+Для получения информации от **git** о его текущем состоянии используем команду **git status**:
+```sh
+C:\Users\maksi\Desktop\Lessen_1>git status
+```
