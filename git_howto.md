@@ -42,3 +42,6 @@ C:\Users\maksi\Desktop\Lessen_1>git checkout 2a781ad
 ```sh
 C:\Users\maksi\Desktop\Lessen_1>git checkout master
 ```
+## Вывод разницы между текущим и закомиченным файлом
+Команда **git diff** покажет разницу между последним коммитом и последним сохранением файла, например:
+![](git_diff.jpg)
