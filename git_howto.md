@@ -56,6 +56,10 @@ C:\Users\maksi\Desktop\Lessen_1>git branch
 ![](git_branch.jpg)
 
 ## Создание новой ветки
+Для создания новой ветки добавляем к команде название новой ветки **git branch** __<new_branch>__:
+```sh
+C:\Users\maksi\Desktop\Lessen_1>git branch new_branch
+```
 
 ## Переход к другой ветке
 
