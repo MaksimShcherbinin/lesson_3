@@ -64,4 +64,7 @@ C:\Users\maksi\Desktop\Lessen_1>git branch new_branch
 ## Переход к другой ветке
 Тут будет команда git checkout <название_ветки>
 ## Удаление ветки
-А тут удаление ветки git branch -d <название_ветки>
+Удаляем ветку командой **git branch -d <name_branch>**, например:
+```sh
+C:\Users\maksi\Desktop\Lessen_1>git branch -d new_branch
+```
