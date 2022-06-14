@@ -56,7 +56,8 @@ C:\Users\maksi\Desktop\Lessen_1>git branch
 ![](git_branch.jpg)
 
 ## Создание новой ветки
-
+Тут пропишем команду git branch <new_branch>
 ## Переход к другой ветке
-
+Тут будет команда git checkout <название_ветки>
 ## Удаление ветки
+А тут удаление ветки git branch -d <название_ветки>
