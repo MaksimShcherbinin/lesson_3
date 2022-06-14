@@ -76,4 +76,7 @@ C:\Users\maksi\Desktop\Lessen_1>git checkout branch_name
 ```
 
 ## Удаление ветки
-А тут удаление ветки git branch -d <название_ветки>
+Для удаления ветки без слияния с веткой **master** используем ключ __-D__:
+```sh
+C:\Users\maksi\Desktop\Lessen_1>git branch -D branch_name
+```
