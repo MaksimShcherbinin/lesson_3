@@ -62,6 +62,10 @@ C:\Users\maksi\Desktop\Lessen_1>git branch new_branch
 ```
 
 ## Переход к другой ветке
-Тут будет команда git checkout <название_ветки>
+Для перехода к другой ветке используем команду **git checkout** __<branch_name>__:
+```sh
+C:\Users\maksi\Desktop\Lessen_1>git checkout branch_name
+```
+
 ## Удаление ветки
 А тут удаление ветки git branch -d <название_ветки>
